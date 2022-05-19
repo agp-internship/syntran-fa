@@ -10,5 +10,5 @@ This project's main goal is to clon the parsing trick based methods for data aug
 
 ## References
 1. [Fluent Response Generation for Conversational Question Answering](https://aclanthology.org/2020.acl-main.19) (Baheti et al., ACL 2020)
-2.  [Good Question! Statistical Ranking for Question Generation](https://aclanthology.org/N10-1086) (Heilman & Smith, NAACL 2010)
+2. [Good Question! Statistical Ranking for Question Generation](https://aclanthology.org/N10-1086) (Heilman & Smith, NAACL 2010)
 3. [Accurate Unlexicalized Parsing](https://aclanthology.org/P03-1054) (Klein & Manning, ACL 2003)
