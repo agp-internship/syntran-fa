@@ -1,5 +1,5 @@
 # syntran-fa
-Syntactic Transformed Version of Farsi QA datasets to make fluent responses from questions and short answers. You can use this dataset by the code below:
+Syntactic Transformed Version of Farsi QA datasets to make fluent responses from questions and short answers. You can use the syntran-fa dataset with [::hugs::/datasets](https://github.com/huggingface/datasets) by the code below:
 
 ```python
 import datasets
