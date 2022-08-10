@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="https://huggingface.co/datasets/SLPL/syntran-fa"><img src="https://img.shields.io/static/v1?label=%F0%9F%A4%97%20Hugging%20Face&message=SLPL/syntran-fa&color=yellow"></a>
+</div>
+
 # syntran-fa
 Syntactic Transformed Version of Farsi QA datasets to make fluent responses from questions and short answers. You can use the syntran-fa dataset with [:hugs:/datasets](https://github.com/huggingface/datasets) by the code below:
 
