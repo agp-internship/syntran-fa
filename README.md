@@ -54,7 +54,7 @@ This dataset can be used for the question-answering task, especially when you ar
 
 ## Dataset Structure
 Each row of the dataset will look like something like the below:
-```
+```python
 {
   'id': 0,
   'question': 'باشگاه هاکی ساوتهمپتون چه نام دارد؟',
