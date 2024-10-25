@@ -33,6 +33,6 @@ preferred-citation:
     given-names: "Ehsaneddin"
   year: 2024
   doi: "10.20944/preprints202410.1684.v1"
-  journal: "Preprints"
+  publisher: "Preprints"
   title: "SynTran-fa: Generating Comprehensive Answers for Farsi QA Pairs via Syntactic Transformation"
 
