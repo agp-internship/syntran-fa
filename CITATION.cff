@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 title: "SynTran-fa: Generating Comprehensive Answers for Farsi QA Pairs via Syntactic Transformation"
+abstract: Generating coherent and comprehensive responses remains a significant challenge Question-Answering (QA) systems when working with short answers especially for low-resourced languages like Farsi. We present a novel approach to expand these answers into complete, fluent responses, addressing the critical issue of limited Farsi resources and models. Our methodology employs a two-stage process: first, we develop a dataset using rule-based techniques on Farsi text, followed by a BERT-based ranking system to ensure fluency and comprehensibility. The resulting model demonstrates strong compatibility with existing QA systems, particularly those based on knowledge graphs. Notably, our system exhibits enhanced performance when integrated with large language models using Chain-of-Thought (CoT) prompting, leveraging detailed explanations rather than single-word answers. Our approach significantly improves response quality and coherence compared to baseline systems. We release our dataset to support further research in Farsi QA.
 authors:
   - family-names: "Farsi"
     given-names: "Farhan"
@@ -14,7 +15,25 @@ authors:
     given-names: "Hossein"
   - family-names: "Asgari"
     given-names: "Ehsaneddin"
-year: 2024
-doi: "10.20944/preprints202410.1684.v1"
-publisher: "Preprints"
-type: "article"
+date-released: 2024-10-22
+repository-code: "https://github.com/agp-internship/syntran-fa"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Farsi"
+    given-names: "Farhan"
+  - family-names: "Sabouri"
+    given-names: "Sadra"
+  - family-names: "Kashfipour"
+    given-names: "Kian"
+  - family-names: "Gooran"
+    given-names: "Soroush"
+  - family-names: "Sameti"
+    given-names: "Hossein"
+  - family-names: "Asgari"
+    given-names: "Ehsaneddin"
+  year: 2024
+  doi: "10.20944/preprints202410.1684.v1"
+  journal: "Preprints"
+  title: "SynTran-fa: Generating Comprehensive Answers for Farsi QA Pairs via Syntactic Transformation"
+
