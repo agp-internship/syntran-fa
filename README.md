@@ -28,6 +28,7 @@ data = datasets.load_dataset('SLPL/syntran-fa', split="train")
   - [Licensing Information](#licensing-information)
   - [Citation Information](#citation-information)
   - [Contributions](#contributions)
+  - [Cite Us](#cite-us)
 
 ## Dataset Description
  
@@ -97,6 +98,19 @@ The dataset is gathered together completely in the Asr Gooyesh Pardaz company's 
 ### Contributions
 
 Thanks to [@farhaaaaa](https://github.com/farhaaaaa) for adding this dataset.
+
+### Cite Us
+Please cite our technical preprint if you're using this dataset:
+
+```bibtex
+@article{farsi2024syntran,
+  title={SynTran-fa: Generating Comprehensive Answers for Farsi QA Pairs via Syntactic Transformation},
+  author={Farsi, Farhan and Sabouri, Sadra and Kashfipour, Kian and Gooran, Soroush and Sameti, Hossein and Asgari, Ehsaneddin},
+  year={2024},
+  doi="10.20944/preprints202410.1684.v1",
+  publisher={Preprints}
+}
+```
 
 ## References
 1. [Fluent Response Generation for Conversational Question Answering](https://aclanthology.org/2020.acl-main.19) (Baheti et al., ACL 2020)
