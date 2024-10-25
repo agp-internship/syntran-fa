@@ -107,7 +107,7 @@ Please cite our technical preprint if you're using this dataset:
   title={SynTran-fa: Generating Comprehensive Answers for Farsi QA Pairs via Syntactic Transformation},
   author={Farsi, Farhan and Sabouri, Sadra and Kashfipour, Kian and Gooran, Soroush and Sameti, Hossein and Asgari, Ehsaneddin},
   year={2024},
-  doi="10.20944/preprints202410.1684.v1",
+  doi={10.20944/preprints202410.1684.v1},
   publisher={Preprints}
 }
 ```
